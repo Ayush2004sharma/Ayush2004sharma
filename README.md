@@ -1,7 +1,8 @@
-<div align="center">
+<div style="width: 100%; height: 100px; overflow: hidden;">
   <img src="https://i.pinimg.com/736x/b5/78/5a/b5785af39d097409d685d68c242c146a.jpg" 
-       style="width: 100%; max-height: 130px; object-fit: cover;" />
+       style="width: 100%; height: auto; object-fit: cover;" />
 </div>
+
 
 
 ###
