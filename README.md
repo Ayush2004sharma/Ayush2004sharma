@@ -1,6 +1,5 @@
-<div style="width: 100%; height: 100px; overflow: hidden;">
-  <img src="https://i.pinimg.com/736x/b5/78/5a/b5785af39d097409d685d68c242c146a.jpg" 
-       style="width: 100%; height: auto; object-fit: cover;" />
+<div align="center">
+  <img  height ="200" src="https://i.pinimg.com/736x/b5/78/5a/b5785af39d097409d685d68c242c146a.jpg" />
 </div>
 
 
