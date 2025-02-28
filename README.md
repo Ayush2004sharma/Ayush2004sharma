@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" style="width: 100%; max-height: 400px; object-fit: cover;" />
+  <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg"  object-fit: cover;" />
 </div>
 
 
