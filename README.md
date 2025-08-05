@@ -13,9 +13,9 @@
 ## 📌 About Me
 
 - 🎯 Motivated and passionate **Computer Science and Engineering student** with strong problem-solving skills and a focus on **Data Science**  
-- 💻 Proficient in **React, Next.js, Node.js, Spring Boot, and Java**  
+- 💻 Proficient in **React, Next.js, Node.js and Java**  
 - 🛠️ Built e-commerce platforms, AI-integrated tools, and personal portfolio sites  
-- 📈 Solved **350+ DSA problems** on LeetCode  
+- 📈 Solved **500+ DSA problems** on LeetCode  
 - 🚀 Always learning new technologies and building impactful projects  
 - 🔍 Interested in **AI**, **cloud computing**, and **backend systems**
 
