@@ -2,9 +2,9 @@
   <img height="200" src="https://i.pinimg.com/736x/b5/78/5a/b5785af39d097409d685d68c242c146a.jpg" alt="Banner Image" />
 </div>
 
-# 👋 Hi, I'm Ayush Sharma  <a href="https://portfolio-alpha-cyan-55.vercel.app/" target="_blank" rel="noopener noreferrer">
-  Portfolio
-</a>
+# 👋 Hi, I'm Ayush Sharma
+
+Check out my [Portfolio](https://portfolio-alpha-cyan-55.vercel.app/)
 
 
 💻 **Computer Science and Engineering (Data Science) Student**  
