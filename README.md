@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Ayush Sharma
 
-Check out my [Portfolio](https://portfolio-alpha-cyan-55.vercel.app/)
+Check out my [Portfolio]([https://portfolio-alpha-cyan-55.vercel.app/](https://my-portfolio-seven-navy-96.vercel.app/))
 
 
 💻 **Computer Science and Engineering (Data Science) Student**  
